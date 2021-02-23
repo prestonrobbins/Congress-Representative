@@ -1,0 +1,27 @@
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size:25px;
+}
+
+.marsha-info {
+    max-width: 700px;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+.boxy {
+    display: flex;
+}
+
+.list-item{
+    margin-right: 50px;
+}
+
+.boo {
+    font-size: 300px;
+}
